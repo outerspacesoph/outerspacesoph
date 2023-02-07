@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @outerspacesoph
-- 👀 I’m interested in Blockchain Development
-- 🌱 I’m currently learning Full Stack Web3 Development 
+- 🌱 I’m currently learning Full Stack & Web3 Development 
 - 💞️ I’m looking to collaborate on anything decentralized!
 - 📫 How to reach me: https://twitter.com/outerspacesoph
 
