@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @outerspacesoph
 - 🌱 I’m currently learning Fullstack & Web3 Development
-- ✨ Coding smarter not harder
+- ✨ It's hackathon season 👩🏼‍💻
 - 💞️ I’m looking to collaborate on anything decentralized!
 - 📫 How to reach me: https://twitter.com/outerspacesoph
 
