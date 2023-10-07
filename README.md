@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @outerspacesoph
-- 🌱 I’m currently learning Full Stack & Web3 Development
-- ✨ Working on a galaxy-brain oracle solution
+- 🌱 I’m currently learning Fullstack & Web3 Development
+- ✨ Coding smarter not harder
 - 💞️ I’m looking to collaborate on anything decentralized!
 - 📫 How to reach me: https://twitter.com/outerspacesoph
 
