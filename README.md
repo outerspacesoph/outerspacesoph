@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @outerspacesoph
-- 🌱 I’m currently learning Fullstack & Web3 Development
+- 🌱 I’m currently learning Fullstack & Blockchain Development
 - ✨ It's hackathon season 👩🏼‍💻
 - 💞️ I’m looking to collaborate on anything decentralized!
 - 📫 How to reach me: https://www.youtube.com/@outerspacehack
