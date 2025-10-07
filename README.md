@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Fullstack & Web3 Development
 - ✨ It's hackathon season 👩🏼‍💻
 - 💞️ I’m looking to collaborate on anything decentralized!
-- 📫 How to reach me: [https://www.youtube.com/@outerspacehack]
+- 📫 How to reach me: (https://www.youtube.com/@outerspacehack)
 
 <!---
 outerspacesoph/outerspacesoph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
